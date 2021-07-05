@@ -144,3 +144,5 @@ canvas.bind_all("<Button-1>", start_game)
 
 root.mainloop()
 
+
+
