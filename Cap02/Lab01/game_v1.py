@@ -143,3 +143,4 @@ game = canvas.create_text(400, 300, text=" ", fill="red", font=("Arial", 40))
 canvas.bind_all("<Button-1>", start_game)
 
 root.mainloop()
+
