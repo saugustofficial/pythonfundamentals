@@ -2,5 +2,5 @@
 
 Acesse o livro online gratuito da DSA sobre Deep Learning em:
 
-http://www.deeplearningbook.com.br
+https://www.deeplearningbook.com.br
 
